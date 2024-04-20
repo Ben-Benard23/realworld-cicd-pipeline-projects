@@ -201,7 +201,7 @@
   - Login/SSH into the "Dev-Env", "Stage-Env" and "Prod-Env" VM instance
   - Perform the following operations on all of them
   - Install git by running: `sudo yum install git -y `
-  - Clone repository: `git clone https://github.com/awanmbandi/realworld-cicd-pipeline-project.git`
+  - Clone repository: `git clone https://github.com/Ben-Benard23/prometheus-grafana-project.git` #changes as above
   - Change directory: `cd realworld-cicd-pipeline-project`
   - Swtitch branch: `git switch prometheus-and-grafana-install`
   - Confirm Branch Switch: `git branch` and `ls -al` *(to confirm you have the branch files)*
@@ -219,7 +219,7 @@
   - Install git: 
     - Jenkins/Maven/Ansible and Nexus VMs: `sudo yum install git -y`   
     - SonarQube VM: `sudo apt install git -y`
-  - Clone repository: `git clone https://github.com/awanmbandi/realworld-cicd-pipeline-project.git`
+  - Clone repository: `git clone https://github.com/Ben-Benard23/prometheus-grafana-project.git`
   - Change directory: `cd realworld-cicd-pipeline-project`
   - Swtitch branch: `git switch prometheus-and-grafana-install`
   - Confirm Branch Switch: `git branch` and `ls -al` *(to confirm you have the branch files)*

@@ -127,7 +127,7 @@
     - IAM instance profile: Select the `AWS-EC2FullAccess-Role`
     - Launch Instance
 
-10) Grafana
+10) Grafana set up
     - Create a Grafana VM instance
     - Name: `Grafana`
     - AMI: `Ubuntu 20.04`
